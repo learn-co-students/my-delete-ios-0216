@@ -46,9 +46,9 @@ activists.delete_middle("Ruby Dee")
 
 ## Note
 
-You will be returning a new copy of the array, not mutating the original one. 
+You will be returning a new copy of the array, not mutating the original one.
 
-In other words, this lab is concerned only with the return values of your methods, not with the original arugments that it passes in.
+In other words, this lab is concerned only with the return values of your methods, not with the original arguments that it passes in.
 
 ## Resources
 * [Monkey Patching](http://www.runtime-era.com/2012/12/reopen-and-modify-ruby-classes-monkey.html)
